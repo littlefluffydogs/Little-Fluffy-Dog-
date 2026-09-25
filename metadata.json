@@ -1,0 +1,8 @@
+{
+  "name": "Replicate & Repatriate (R2) Ground Truth Hub",
+  "description": "Strategic Feasibility Study and operational policy campaign for a UK-led Replicate & Repatriate National Capability Framework, featuring sub-micron metrology digital twins, C2PA cryptographic provenance, draft legislation, and 10-year ROI model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
